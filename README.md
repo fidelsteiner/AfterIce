@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/fidelsteiner/AfterIce/blob/main/AI_logo.jpg?raw=true)
 
-<img src="[https://your-image-url.type](https://github.com/fidelsteiner/AfterIce/blob/main/AI_logo.jpg)]" width="50" height="50">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230501155143/Git-Tutorial.webp" alt="Sample Image" width="400" height="300">
 
 Systematic analysis of areas recently vacated by ice.
 
