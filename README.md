@@ -3,11 +3,11 @@
 
 <img src="https://github.com/fidelsteiner/AfterIce/blob/main/AI_logo.jpg" alt="Sample Image" width="100" height="100">
 
-Systematic analysis of areas recently vacated by ice.
+Regional analysis of areas recently vacated by (mountain) glacier ice.
 
-<img src="https://github.com/fidelsteiner/AfterIce/blob/main/AI_logo.jpg" alt="Sample Image" width="350" height="250">
+<img src="https://github.com/fidelsteiner/AfterIce/blob/main/figures/exampleQTP.jpg" alt="Sample Image" width="350" height="250">
 
-
+Relying on decadal glacier outlines in HMA and Greenland, areas that have recently become ice free are investigated for greeing, movement (vertical, horizontal) and subsurface water storage changes.
 
 ## High Mountain Asia
 
