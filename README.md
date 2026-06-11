@@ -1,4 +1,6 @@
-# AfterIce <img src="https://github.com/fidelsteiner/AfterIce/blob/main/AI_logo.jpg" alt="Sample Image" width="150" height="150">
+# AfterIce
+
+<img src="https://github.com/fidelsteiner/AfterIce/blob/main/AI_logo.jpg" alt="Sample Image" width="150" height="150">
 
 Regional analysis of areas recently vacated by (mountain) glacier ice.
 
