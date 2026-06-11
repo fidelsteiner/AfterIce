@@ -2,9 +2,11 @@
 
 ![alt text](https://github.com/fidelsteiner/AfterIce/blob/main/AI_logo.jpg?raw=true)
 
+<img src="[https://your-image-url.type](https://github.com/fidelsteiner/AfterIce/blob/main/AI_logo.jpg)" width="20" height="20">
+
 Systematic analysis of areas recently vacated by ice.
 
-![alt text](https://github.com/fidelsteiner/AfterIce/figures/blob/main/exampleQTP.jpg?raw=true  | width=100)
+![alt text](https://github.com/fidelsteiner/AfterIce/figures/blob/main/exampleQTP.jpg?raw=true)
 
 
 ## High Mountain Asia
