@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="75mm"
+   height="75mm"
+   viewBox="0 0 75 75"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="AI_logo.svg"
+   inkscape:export-filename="AI_logo.jpg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2861282"
+     inkscape:cx="13.606731"
+     inkscape:cy="150.06281"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.401604,-75.91098)">
+    <circle
+       style="fill:#483737;fill-opacity:1;stroke:none;stroke-width:1.1235"
+       id="path7296"
+       cx="87.901604"
+       cy="113.41098"
+       r="37.5" />
+    <path
+       style="fill:#ac9d93;fill-opacity:1;stroke:none;stroke-width:1"
+       d="m 77.556745,121.16956 1.440048,5.14302 -0.822883,4.11442 1.851485,4.52585 2.674371,5.34874 1.028605,3.08582 3.702973,2.26293 2.674372,2.46864 2.057209,-2.0572 3.085812,-2.46865 3.291533,-3.29154 -0.205722,-3.08581 3.085812,-2.67437 -0.20572,-4.11441 v -2.46865 l 0.61716,-4.32014 -2.057207,1.44005 -2.88009,1.0286 h -2.262928 l -2.880093,1.23432 -2.262928,-1.64576 -1.851488,-1.64577 -1.645767,-1.23433 -1.851488,1.64577 -2.468649,1.85149 -1.645767,-2.05721 z"
+       id="path4124" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;line-height:1.1;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:justify;fill:#ff0000;stroke:#8c998c;stroke-width:1"
+       x="81.933342"
+       y="135.39622"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="81.933342"
+         y="135.39622">AFTER</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="81.933342"
+         y="140.82901"
+         id="tspan892">   </tspan></text>
+    <path
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1"
+       d="m 75.015462,102.48231 0.765466,3.82732 1.91366,3.44458 v 4.97552 7.27191 l 1.91366,2.29639 1.913657,2.67912 3.061856,-1.53092 1.148196,-1.53093 3.061857,1.91366 2.679123,2.29639 4.210052,-1.1482 5.358251,-0.76546 0.76546,-1.53093 v -6.50644 l 1.1482,-6.12371 1.14819,-4.59279 1.91366,-4.59278 2.29639,-3.827326 -1.53092,-4.975516 v -3.444587 h -8.80284 l -2.296391,9.951039 -2.679125,3.82732 -6.12371,-4.975523 -14.161082,-14.543815 -8.037372,2.296392 4.210052,9.95103 z"
+       id="path1108" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.9389px;line-height:1.1;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:justify;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1"
+       x="86.197014"
+       y="142.4171"
+       id="text7190"><tspan
+         sodipodi:role="line"
+         id="tspan7188"
+         style="fill:#28220b;stroke-width:1"
+         x="86.197014"
+         y="142.4171">ICE</tspan></text>
+  </g>
+</svg>
